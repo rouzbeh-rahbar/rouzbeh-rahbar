@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rouzbeh-rahbar&label=Profile%20views&color=0e75b6&style=flat" alt="rouzbeh-rahbar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rouzbeh-rahbar" alt="rouzbeh-rahbar" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rouzbeh-rahbar" alt="rouzbeh-rahbar" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/rouzbeh-rahbar](https://github.com/rouzbeh-rahbar)
 
