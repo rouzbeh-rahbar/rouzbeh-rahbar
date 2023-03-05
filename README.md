@@ -1,8 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rouzbeh&label=Profile%20views&color=0e75b6&style=flat" alt="rouzbeh" /> </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 <h1 align="center">Hi 👋, I'm Rouzbeh rahbar</h1>
 <h3 align="center">A passionate frontend developer from Austria</h3>
 <div align="center">
