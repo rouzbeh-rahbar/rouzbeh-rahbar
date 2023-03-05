@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rouzbeh rahbar</h1>
-<h3 align="center">A passionate frontend developer from <span style="font-size:bold;">Austria</span></h3>
+<h3 align="center">A passionate frontend developer from Austria</h3>
 <div align="center">
 <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
