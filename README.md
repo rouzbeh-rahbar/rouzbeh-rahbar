@@ -6,12 +6,12 @@
 <br><br><br>
 
 
-<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="coding" align="right" width="400">
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="coding" align="right" width="350">
 
 - 🌱 I’m currently learning **FrontEndTopics**
 - 👨‍💻 All of my projects are available at [https://github.com/rouzbeh-rahbar](https://github.com/rouzbeh-rahbar)
 
-- 💬 Ask me about **HHTML, CSS, BOOTSTRAP, ECMASCRIPT, REACT, MYSQL**
+- 💬 Ask me about **HTML, CSS, BOOTSTRAP, ECMASCRIPT, REACT, MYSQL**
 
 - 📫 How to reach me **rouzbeh.rahbar4@gmail.com**
 
