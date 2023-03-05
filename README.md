@@ -2,9 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rouzbeh&label=Profile%20views&color=0e75b6&style=flat" alt="rouzbeh" /> </p>
 <h1 align="center">Hi 👋, I'm Rouzbeh rahbar</h1>
 <h3 align="center">A passionate frontend developer from Austria</h3>
-<div align="center">
-<img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</div>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rouzbeh-rahbar" alt="rouzbeh-rahbar" /></a> </p>
 
 - 🌱 I’m currently learning **FrontEndTopics**
