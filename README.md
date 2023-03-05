@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rouzbeh&label=Profile%20views&color=0e75b6&style=flat" alt="rouzbeh" /> </p>
 <h1 align="center">Hi 👋, I'm Rouzbeh rahbar</h1>
 <br>
-<h3 align="center">A passionate frontend developer from Austria</h3>
+<h3 align="center">A passionate frontend developerfrom Austria</h3>
 
 <br><br>
 
