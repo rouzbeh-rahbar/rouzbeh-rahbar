@@ -5,6 +5,7 @@
 </div>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rouzbeh-rahbar" alt="rouzbeh-rahbar" /></a> </p>
 
+- 🌱 I’m currently learning **FrontEndTopics**
 - 👨‍💻 All of my projects are available at [https://github.com/rouzbeh-rahbar](https://github.com/rouzbeh-rahbar)
 
 - 💬 Ask me about **HHTML,CSS,BOOTSTRAP,ECMASCRIPT,REACT,MYSQL**
